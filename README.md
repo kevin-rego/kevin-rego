@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kevin-rego
-- 👀 I’m interested in Machine Learning (computer vision, natural language processing, deep learning)
+- 👀 I’m interested in Machine Learning, Computer Vision, Natural language processing, Deep learning
 - 🌱 I’m currently learning Python, Rust, and WebAssembly
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
